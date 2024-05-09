@@ -1,0 +1,61 @@
+.bbb{
+text-align: center;
+padding-left: 70%;
+}
+.aaa{
+   height: 150px;
+padding-top: 20px;
+}
+.ccc{
+    text-align: center;
+}
+div{
+    display: flex; /* Use flexbox */
+  }
+.aaa, .bbb,.ccc {
+    width: 33%;
+    padding:20px; 
+    text-align: center;
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  }
+h1,.a,h2{text-align: right;}
+.b{
+    padding-left: 5%;
+}
+body{
+    padding: 0 2% 0 2%;
+    direction: rtl;
+
+    
+}
+li{
+    text-align: right;
+    
+}
+h2{
+    color: green;
+}
+.z{
+    color:crimson;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.title{
+    font-family: cursive,initial,italic;
+    color:  rgb(13, 0, 131);
+}
+html{
+    background-color: rgba(255, 220, 250, 0.538);
+}
+.f{
+    height: 250px;
+    width: 85%;
+    padding: 0 7.5% 0 7.5%;
+
+}
+.c{
+    background-color: rgba(192, 250, 255, 0.66);
+    border-radius: 20px;
+    padding-bottom: -20px;
+}
